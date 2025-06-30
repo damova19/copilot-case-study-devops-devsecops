@@ -1,4 +1,4 @@
-name: Security Scanning Workflow
+name: Security Scanning Workflow1
 on:
   push:
     branches:
